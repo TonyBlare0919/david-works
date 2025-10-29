@@ -1,0 +1,731 @@
+{
+  "personal": {
+    "name": " David Beckham",
+    "nickname": "Icarus",
+    "title": "Associate Software Engineer",
+    "company": "Lowe's Companies, Inc.",
+    "location": "Singapore",
+    "email": "davidjmj1997@gmail.com",
+    "phone": "+65 9123 4567",
+    "tagline": "AI & Full-Stack Engineer",
+    "bio": "I architect intelligent solutions at the intersection of AI and full-stack development. From building accessibility-first applications to automating complex workflows, I transform ideas into impactful digital experiences.",
+    "closingBio": "Ready to collaborate on something extraordinary? I'm always excited to connect with fellow innovators, explore cutting-edge projects, and push the boundaries of what's possible with technology. Let's build the future together.",
+    "story": [
+      "With over 8 years of experience in full-stack development and more than 3 years of experience in AI/ML Engineering, I've had the privilege of working with vibrant teams across enterprise companies, building everything from MVPs to large-scale applications serving millions of users.",
+      "My journey has been defined by creating meaningful impact through technology. From research publications to innovation competitions, I've consistently focused on building solutions that genuinely improve people's lives. Whether working on accessibility, security, or wellness applications, I'm driven by the belief that technology should be both powerful and purposeful.",
+      "When I'm not coding, you'll find me contributing to open-source projects, writing technical articles, or maybe gaming. I believe in continuous learning and sharing knowledge with the community."
+    ],
+    "profileImage": "/avatar.png"
+  },
+  "stats": {
+    "projects": "20+",
+    "yearsExperience": "7+",
+    "technologiesMastered": "30+"
+  },
+  "social": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/andrea-ferruggia-0732b7380/",
+      "username": "andrea-ferruggia-0732b7380"
+    },
+    "github": {
+      "url": "https://github.com/LegendaryCoder0205",
+      "username": "Icarus"
+    },
+    "medium": {
+      "url": "https://medium.com/@andrea-ferruggia",
+      "username": "andrea-ferruggia"
+    },
+    "email": "mailto:davidjmj1997@gmail.com",
+    "phone": "tel:+65 9123 4567",
+    "resume": ""
+  },
+  "skills": {
+    "languages": [
+      {
+        "name": "Python",
+        "experience": "7+ years",
+        "context": "AI/ML, automation, APIs",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "JavaScript",
+        "experience": "5+ years",
+        "context": "Full-stack, React, Node.js",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "experience": "4+ years",
+        "context": "Enterprise React/Next.js",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "Java",
+        "experience": "1+ year",
+        "context": "Spring Boot, enterprise",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "C++",
+        "experience": "Academic",
+        "context": "Systems, algorithms",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      },
+      {
+        "name": "SQL",
+        "experience": "7+ years",
+        "context": "Database design, queries",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      }
+    ],
+    "ai_ml": [
+      {
+        "name": "HuggingFace",
+        "experience": "3+ year",
+        "context": "Multimodal AI, fine-tuning",
+        "category": "AI/ML",
+        "icon": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+      },
+      {
+        "name": "Langchain",
+        "experience": "3+ year",
+        "context": "RAG systems, AI agents",
+        "category": "AI/ML",
+        "icon": "https://python.langchain.com/img/brand/wordmark.png"
+      },
+      {
+        "name": "OpenAI SDK",
+        "experience": "2+ year",
+        "context": "GPT integration, automation",
+        "category": "AI/ML",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg"
+      },
+      {
+        "name": "Google ADK",
+        "experience": "Current",
+        "context": "Enterprise AI solutions",
+        "category": "AI/ML",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      },
+      {
+        "name": "Agents SDK",
+        "experience": "Current",
+        "context": "AI agent development",
+        "category": "AI/ML",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "Arize AI",
+        "experience": "Current",
+        "context": "ML monitoring, tracking",
+        "category": "AI/ML",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      }
+    ],
+    "backend": [
+      {
+        "name": "FastAPI",
+        "experience": "5+ year",
+        "context": "High-performance APIs",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "experience": "6+ years",
+        "context": "RESTful APIs, microservices",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "Django",
+        "experience": "7+ year",
+        "context": "Web apps, admin panels",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+      },
+      {
+        "name": "Flask",
+        "experience": "3+ year",
+        "context": "Lightweight APIs",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+      },
+      {
+        "name": "Spring Boot",
+        "experience": "2+ year",
+        "context": "Enterprise Java apps",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      }
+    ],
+    "frontend": [
+      {
+        "name": "React.js",
+        "experience": "6+ years",
+        "context": "MicroFrontends, SPAs",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Next.js",
+        "experience": "3+ year",
+        "context": "SSG/SSR applications",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      },
+      {
+        "name": "ThreeJS",
+        "experience": "Project-based",
+        "context": "3D visualizations",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
+      },
+      {
+        "name": "HTML/CSS",
+        "experience": "7+ years",
+        "context": "Responsive design",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      }
+    ],
+    "cloud_databases": [
+      {
+        "name": "Microsoft Azure",
+        "experience": "Project-based",
+        "context": "Cloud deployment, Logic Apps",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+      },
+      {
+        "name": "Kubernetes",
+        "experience": "Project-based",
+        "context": "Pod deployment, clusters",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+      },
+      {
+        "name": "Docker",
+        "experience": "+ years",
+        "context": "Containerization",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+      },
+      {
+        "name": "MongoDB",
+        "experience": "5+ year",
+        "context": "NoSQL databases",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      },
+      {
+        "name": "Redis",
+        "experience": "3+ year",
+        "context": "Caching, sessions",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+      },
+      {
+        "name": "Linux Systems",
+        "experience": "2+ years",
+        "context": "Terminal commands, system administration",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "AI & Full Stack Engineer",
+      "company": "The Technical Magic Company(Remote)",
+      "location": "San Francisco CA",
+      "logo": "/professional-experience-logos/tech_logo.png",
+      "duration": "September 2022 – Present",
+      "description": "Designed and deployed AI-powered web applications combining Django REST API backends, React.js frontends, and machine learning models.",
+      "achievements": [
+        "Built NLP-based features (sentiment analysis, text summarization, Chatbots) using spaCy, Hugging Face Transformers, and Scikit-learn, increasing customer engagement by 25%",
+        "Deployed ML models as REST APIs with FastAPI/Flask, enabling real-time inference at scale (1,000+ req/sec)",
+        "Created data pipelines for preprocessing and training large datasets with Pandas, NumPy, and Scikit-learn, reducing model training time by 30%.",
+        "Worked closely with data scientists and product teams to translate business requirements into production-ready AI solutions."
+      ],
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "Django DRF",
+        "Flask",
+        "Langchain",
+        "HuggingFace",
+        "AI/ML",
+        "React.js",
+        "Redux",
+        "Figma",
+        "Docker",
+        "Node.js"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Engineer",
+      "company": "Mexty(Remote)",
+      "location": "Paris, France",
+      "logo": "/professional-experience-logos/mexty.png",
+      "duration": "September 2020 – May 2022",
+      "description": "Built modern single-page applications (SPAs) with React, Redux, and Tailwind CSS, improving user experience and UI consistency.",
+      "achievements": [
+        "Engineered and deployed scalable microservices using Django REST Framework and FastAPI, handling 50k+ daily requests.",
+        "Wrote unit and integration tests (PyTest, Jest) and achieved 85%+ code coverage, ensuring application stability and maintainability.",
+        "Integrated third-party APIs and payment gateways (Stripe, PayPal, Google Maps) to extend application functionality and drive business revenue",
+        "Improved application performance by 40% through code refactoring, caching strategies, and database optimization."
+      ],
+      "technologies": [
+        "AWS",
+        "Vue",
+        "Firebase",
+        "PostgreSQL",
+        "Docker",
+        "PyTest",
+        "API Integration",
+        "Kubernetes",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "company": "BlueCode Company(Hybrid)",
+      "location": "Rome, Italy",
+      "logo": "/professional-experience-logos/bluecode.png",
+      "duration": "Jul 2017 – May 2020",
+      "description": "Developed and maintained a full-stack web application using Django and React, resulting in a 15% increase in user retention and a 10 % boost in customer satisfaction.",
+      "achievements": [
+        "Implemented authentication and authorization (JWT, OAuth2, Google Login) to enhance application security and user experience.",
+        "Built reusable UI components with React and Bootstrap, reducing frontend development time by 20%.",
+        "Optimized SQL queries and database indexes, improving system performance and reducing query execution time by 35%.",
+        "Wrote unit and integration tests with PyTest and Jest, maintaining 80%+ code coverage for reliability."
+      ],
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "Figma",
+        "SQL",
+        "AWS",
+        "Heroku",
+        "React",
+        "Vue"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "B.Eng. in Computer Science",
+    "institution": "Nanyang Technological University (NTU)",
+    "duration": "Aug 2013 – May 2017",
+    "cgpa": "9.54/10.0",
+    "location": "Jurong West, Singapore"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Doxy me",
+      "subtitle": "Telemedicine Platform",
+      "description": "Doxy is a telemedicine platform offering secure, simple, and easy-to-use video calling solutions for healthcare providers to connect with patients virtually. It emphasizes patient privacy and complies with healthcare regulations.",
+      "longDescription": "Research project under Unisys & Ramaiah Institute of Technology focusing on multimodal generative AI for accessibility. Combines LLAVA-1.5, Gemma 7B, and Detectron2 for reduced hallucinations and enhanced object recognition.",
+      "technologies": ["React", "Django DRF", "AWS", "MongoDB", "AI/ML"],
+      "github": "",
+      "live": "https://doxy.me/en/",
+      "featured": true,
+      "categories": ["AI/ML", "Healthcare", "Fullstack Development"],
+      "image": "/Images/Doxy me.png",
+      "status": "Published Research",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "title": "PlasBit",
+      "subtitle": "Financial Management Platform",
+      "description": "Plasbit is a financial management platform that provides businesses with tools to manage their finances effectively. It offers features like expense tracking, invoicing, and financial reporting, all while ensuring data security and compliance with regulations.",
+      "longDescription": "Research project providing comprehensive passwordless authentication solutions for web and mobile applications. Implements Facenet for facial verification, Resemblyzer for voice recognition, and WebAuthn API for FIDO authentication.",
+      "technologies": [
+        "React",
+        "API Integration",
+        "MetroJS",
+        "MongoDB",
+        "WEB3"
+      ],
+      "github": "",
+      "live": "https://plasbit.com/",
+      "featured": true,
+      "categories": ["AI/ML", "Blockchain", "API Integration", "Financial"],
+      "image": "/Images/PlasBit.png",
+      "status": "Open Source",
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "title": "Memoirs",
+      "subtitle": "Mental Health Platform",
+      "description": "Mental health surveillance and assessment platform for teens and students. Features personalized music recommendations with Solfeggio frequencies and AI-powered mental health assistance.",
+      "longDescription": "Comprehensive mental health platform analyzing journal entries to provide personalized support. Integrates specific brain-targeting frequencies and AI-driven goal generation for depression support.",
+      "technologies": ["Python", "AI/ML", "Natural Language Processing"],
+      "github": "https://github.com/Shades-en/MindMap",
+      "live": "",
+      "featured": false,
+      "categories": ["Healthcare", "AI/ML"],
+      "image": "https://i.postimg.cc/nz8NK74x/image.png",
+      "status": "Active Development",
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "title": "StudentBuzz",
+      "subtitle": "Student Collaboration Platform",
+      "description": "A collaborative platform that empowers students to showcase their skills, projects, and accomplishments while fostering a vibrant community of learning and collaboration.",
+      "longDescription": "Full-stack platform enabling students to create comprehensive profiles highlighting skills and achievements, join clubs, collaborate across colleges, and share educational resources. Features inter-college collaboration, club activities, and notification systems.",
+      "technologies": ["React.js", "Node.js", "Express", "MongoDB", "Firebase"],
+      "github": "https://github.com/Shades-en/studentbuzz",
+      "live": "",
+      "featured": false,
+      "categories": ["Fullstack Development", "Social Platform"],
+      "image": "https://i.postimg.cc/pLpSgkkx/image.png",
+      "status": "Completed",
+      "priority": 6
+    },
+    {
+      "id": 5,
+      "title": "Luxico",
+      "subtitle": "Booking platform",
+      "description": "Full-stack application for Luxico booking system built with modern React and Django technologies and beautiful UI components.",
+      "longDescription": "Modern React frontend for booking management featuring responsive design with Tailwind CSS, interactive charts with Recharts, and comprehensive UI components using Shadcn. Integrates with backend booking management system.",
+      "technologies": [
+        "React.js",
+        "Node.js",
+        "PostgreSQL",
+        "Tailwind CSS",
+        "Shadcn",
+        "Lucide Icons"
+      ],
+      "github": "",
+      "live": "https://luxico.com.au/",
+      "featured": false,
+      "categories": ["Fullstack Development", "Enterprise"],
+      "image": "/Images/Luxico.png",
+      "status": "Completed",
+      "priority": 8
+    },
+    {
+      "id": 6,
+      "title": "Notrios",
+      "subtitle": "ERP System",
+      "description": "Notrios is an ERP system designed to streamline business processes and improve overall efficiency. It offers a range of features, including inventory management, order processing, and customer relationship management, all within a user-friendly interface.",
+      "longDescription": "Notrios is an ERP system designed to streamline business processes and improve overall efficiency. It offers a range of features, including inventory management, order processing, and customer relationship management, all within a user-friendly interface.",
+      "technologies": ["Vue", "FastAPI", "Firebase", "AWS"],
+      "github": "",
+      "live": "https://notrinos.com/",
+      "featured": false,
+      "categories": ["AI/ML", "Enterprise"],
+      "image": "/Images/Notrios.png",
+      "status": "Completed",
+      "priority": 5
+    },
+    {
+      "id": 7,
+      "title": "Bubble Bop",
+      "subtitle": "QR-Based Restaurant Management",
+      "description": "Hotel management system that takes orders for each table based on scanning QR codes available at tables, streamlining the dining experience.",
+      "longDescription": "Django-based restaurant management system featuring QR code table ordering, MongoDB integration, email notifications, and comprehensive order management. Includes both customer-facing ordering interface and restaurant management dashboard.",
+      "technologies": [
+        "Vue",
+        "Node.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "JavaScript"
+      ],
+      "github": "",
+      "live": "",
+      "featured": false,
+      "categories": ["Fullstack Development", "Enterprise"],
+      "image": "https://i.postimg.cc/fWPqYYDr/image.png",
+      "status": "Completed",
+      "priority": 9
+    },
+    {
+      "id": 8,
+      "title": "FJallRaven",
+      "subtitle": "E-commerce Website",
+      "description": "Fjällräven is a Swedish outdoor brand known for its durable, functional, and eco-friendly products, including backpacks, clothing, and accessories. The company emphasizes sustainability, using materials like organic cotton and recycled polyester.",
+      "longDescription": "Django-based file conversion platform supporting multiple file formats with bulk processing capabilities. Features user-friendly interface for seamless file format conversions, developed as part of hackathon competition.",
+      "technologies": [
+        "React",
+        "Django DRF",
+        "Tailwind CSS",
+        "Web Development"
+      ],
+      "github": "",
+      "live": "https://www.fjallraven.com/us/en-us/",
+      "featured": false,
+      "categories": ["Fullstack Development", "E-commerce"],
+      "image": "/Images/FjallRaven.png",
+      "status": "Completed",
+      "priority": 7
+    },
+    {
+      "id": 9,
+      "title": "Huno",
+      "subtitle": "Car Renting Website",
+      "description": "Hunos is a car rental and tokenized vehicle project using RWA & DEPIN.",
+      "longDescription": "Node.js-based car rental platform utilizing RWA & DEPIN for tokenized vehicle management. Features include user-friendly booking interface, real-time vehicle tracking, and secure payment processing.",
+      "technologies": ["Node.js", "Express", "MySQL", "Flask", "HTML", "CSS"],
+      "github": "",
+      "live": "https://hunos.co/",
+      "featured": false,
+      "categories": ["Fullstack Development", "E-commerce"],
+      "image": "/Images/Hunos.png",
+      "status": "Completed",
+      "priority": 4
+    },
+    {
+      "id": 10,
+      "title": "Swom",
+      "subtitle": "Home Swapping Website",
+      "description": "Swom is a home swapping platform that allows users to exchange homes for vacations.",
+      "longDescription": "Node.js-based home swapping platform enabling users to list their homes, browse available swaps, and manage bookings. Features include user-friendly interface, real-time availability tracking, and secure payment processing.",
+      "technologies": ["Node.js", "PostgreSQL", "AWS", "Tailwind CSS", "HTML"],
+      "github": "",
+      "live": "https://swom.app/",
+      "featured": false,
+      "categories": ["Fullstack Development", "Utility"],
+      "image": "/Images/SWOM.png",
+      "status": "Completed",
+      "priority": 10
+    },
+    {
+      "id": 11,
+      "title": "yummyCake",
+      "subtitle": "E-commerce Website",
+      "description": "yummyCake is an online bakery platform offering a wide range of delicious cakes and pastries.",
+      "longDescription": "Django-based e-commerce platform for an online bakery, featuring user-friendly interface, secure payment processing, and real-time order tracking.",
+      "technologies": ["React", "Flask", "Tailwind CSS", "Firebase"],
+      "github": "",
+      "live": "https://yummy-cakes.co.za/",
+      "featured": false,
+      "categories": ["Fullstack Development", "E-commerce"],
+      "image": "/Images/yummyCake.png",
+      "status": "Completed",
+      "priority": 11
+    },
+    {
+      "id": 12,
+      "title": "Observer.ai",
+      "subtitle": "CRM system",
+      "description": "Observer.ai is a CRM system that leverages AI for enhanced customer interactions.",
+      "longDescription": "Node.js-based CRM platform utilizing AI for customer insights and engagement. Features include user-friendly dashboard, real-time analytics, and seamless integration with existing tools.",
+      "technologies": ["React", "Firebase", "Django DRF", "HTML", "CSS"],
+      "github": "",
+      "live": "https://www.observe.ai/",
+      "featured": false,
+      "categories": ["Fullstack Development", "CRM System"],
+      "image": "/Images/Observer.png",
+      "status": "Completed",
+      "priority": 12
+    }
+  ],
+  "publications": [
+    {
+      "title": "Foresight: Empowering Visually Impaired Individuals through Multimodal Generative AI",
+      "venue": "IEEE",
+      "status": "Awaiting Publication",
+      "date": "Jun 2025",
+      "description": "Research on multimodal AI systems for accessibility enhancement",
+      "category": "research"
+    },
+    {
+      "title": "AuthEZ: A Multifaceted Identity Provider Service using Facial, Voice, and In-App Authentication",
+      "venue": "IEEE",
+      "doi": "10.1109/GCAT62922.2024.10923933",
+      "url": "https://doi.org/10.1109/GCAT62922.2024.10923933",
+      "date": "Oct 2024",
+      "description": "Comprehensive study on passwordless authentication methodologies",
+      "category": "research"
+    },
+    {
+      "title": "I Vibecoded My Web Portfolio with AI — A 2025 Experiment",
+      "venue": "Medium",
+      "url": "https://medium.com/@owaisiqbal2013/i-vibecoded-my-web-portfolio-with-ai-a-2025-experiment-edcfdfc21092",
+      "date": "Jul 2025",
+      "description": "Experiment on using AI to create a web portfolio",
+      "category": "blog"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Lowe's Individual Excellence Award",
+      "organization": "Lowe's Companies, Inc.",
+      "year": "2024",
+      "description": "Awarded for bringing the Lowe's core values to life and excelling in actions. Superior sense of ownership and achieving against odds.",
+      "category": "corporate",
+      "url": "https://drive.google.com/file/d/1yrIC9wy2_VlhKVsrggzauwpuI17U6bS4/view?usp=drivesdk&usp=embed_facebook"
+    },
+    {
+      "title": "Lowe's Spot Award",
+      "organization": "Lowe's Companies, Inc.",
+      "year": "2024",
+      "description": "Immediate recognition for taking action at the right time and going all out in getting the job done.",
+      "category": "corporate",
+      "url": "https://drive.google.com/file/d/1u4wFx8khOBt7NiXoSHrRgmUTfEmheq4W/view?usp=drivesdk&usp=embed_facebook"
+    },
+    {
+      "title": "Pradarshana 2024 - 1st Place",
+      "organization": "Ramaiah Institute of Technology",
+      "year": "2024",
+      "description": "First place at Final Year innovation exhibition for Foresight project",
+      "category": "competitive",
+      "url": "https://drive.google.com/file/d/1PRPSAcT3uvEDA2iZMDprFA1Jv5zae3yd/view?usp=sharing&usp=embed_facebook"
+    },
+    {
+      "title": "Campus Research Certificate",
+      "organization": "Unisys India",
+      "year": "2024",
+      "description": "Recognition for Foresight: Accessibility Accelerator Using Multimodal Generative AI",
+      "category": "academic",
+      "url": "https://drive.google.com/file/d/1ovpyEYgLy3r6h-vEP-QZK_MA9NcHFGBH/view?usp=drivesdk&usp=embed_facebook"
+    },
+    {
+      "title": "Reva Hack 2021 - 2nd Place",
+      "organization": "Reva University",
+      "year": "2021",
+      "description": "Second place for Myxable, an open-source multiformat bulk file conversion platform",
+      "category": "competitive",
+      "url": "https://drive.google.com/file/d/1qvHmLXbMzdKqenyvgwg7bVSxq9u_MIQj/view?usp=sharing&usp=embed_facebook"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "title": "Deep Learning Specialization",
+      "provider": "Coursera",
+      "year": "2023",
+      "description": "Comprehensive deep learning specialization covering neural networks, optimization, and advanced architectures",
+      "certificates": [
+        {
+          "url": "https://coursera.org/verify/JXGWAGQ34VTY",
+          "title": "Advanced Learning Algorithms",
+          "year": "2022",
+          "credentialId": "JXGWAGQ34VTY"
+        },
+        {
+          "url": "https://coursera.org/verify/FCSKKCABZXJR",
+          "title": "Sequence Models",
+          "year": "2023",
+          "credentialId": "FCSKKCABZXJR"
+        },
+        {
+          "url": "https://coursera.org/verify/9SWQRKTMS85Y",
+          "title": "Convolutional Neural Networks",
+          "year": "2023",
+          "credentialId": "9SWQRKTMS85Y"
+        },
+        {
+          "url": "https://www.coursera.org/account/accomplishments/verify/RNJFP74S7RYF",
+          "title": "Supervised Machine Learning: Regression and Classification",
+          "year": "2022",
+          "credentialId": "RNJFP74S7RYF"
+        }
+      ],
+      "skills": [
+        "Neural Networks",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Convolutional Neural Networks",
+        "TensorFlow",
+        "Supervised Learning",
+        "Unsupervised Learning"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Microsoft Azure Fundamentals",
+      "provider": "Coursera",
+      "year": "2024",
+      "description": "Azure cloud services, architecture, and deployment strategies for enterprise applications",
+      "certificates": [
+        {
+          "url": "https://www.coursera.org/account/accomplishments/verify/9ZXJV8ATL52V",
+          "title": "Microsoft Azure Management Tools and Security Solutions",
+          "year": "2024",
+          "credentialId": "9ZXJV8ATL52V"
+        },
+        {
+          "url": "https://www.coursera.org/account/accomplishments/verify/HZMYP7MHNL4X",
+          "title": "Microsoft Azure Services and Lifecycles",
+          "year": "2024",
+          "credentialId": "HZMYP7MHNL4X"
+        },
+        {
+          "url": "https://www.coursera.org/account/accomplishments/verify/X85NDRLLFGD2",
+          "title": "Introduction to Microsoft Azure Cloud Services",
+          "year": "2024",
+          "credentialId": "X85NDRLLFGD2"
+        }
+      ],
+      "skills": [
+        "Cloud Computing",
+        "Azure Services",
+        "Cloud Architecture",
+        "DevOps"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Kubernetes Fundamentals",
+      "provider": "LinkedIn Learning",
+      "year": "2024",
+      "certificates": [
+        {
+          "url": "https://drive.google.com/drive/u/1/folders/1dr8EfTztRF8BeTUbG6rtpocDs5RvCgpH",
+          "title": "Kubernetes Fundamentals",
+          "year": "2024",
+          "credentialId": "73e74bbff766d825612bbc361791644140c59fed0eb11c811275ff4ca9969689"
+        }
+      ],
+      "description": "Container orchestration, cluster management, and cloud-native application deployment",
+      "skills": [
+        "Container Orchestration",
+        "DevOps",
+        "Cloud Native",
+        "Microservices"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "David Beckham - AI Engineer & Full-Stack Developer",
+    "description": "Associate Software Engineer at Lowe's specializing in AI-driven automation, Full-Stack development and accessibility technology. Expert in Python, React.js, and cloud technologies.",
+    "keywords": [
+      "David Beckham",
+      "AI Engineer",
+      "Full Stack Developer",
+      "Python",
+      "React",
+      "Machine Learning",
+      "Accessibility Technology",
+      "Lowe's",
+      "Software Engineer",
+      "Singapore",
+      "Generative AI",
+      "Ramaiah Institute of Technology",
+      "Nanyang Technological University",
+      "Lowe's"
+    ],
+    "ogImage": "/owais-profile2.png",
+    "googleSiteVerification": "oNrOrBYC8Dz7PNuaUMPlYXCVWaPbmLofyH5Q9EoXg50",
+    "icon": {
+      "icon": "/web-app-manifest.png",
+      "appleTouchIcon": "/apple-touch-icon.png"
+    }
+  }
+}
