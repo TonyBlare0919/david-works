@@ -1,12 +1,12 @@
 {
   "personal": {
-    "name": " David Beckham",
+    "name": " David Johnson",
     "nickname": "Icarus",
     "title": "Associate Software Engineer",
     "company": "Lowe's Companies, Inc.",
     "location": "Singapore",
     "email": "davidjmj1997@gmail.com",
-    "phone": "+65 9123 4567",
+    "phone": "",
     "tagline": "AI & Full-Stack Engineer",
     "bio": "I architect intelligent solutions at the intersection of AI and full-stack development. From building accessibility-first applications to automating complex workflows, I transform ideas into impactful digital experiences.",
     "closingBio": "Ready to collaborate on something extraordinary? I'm always excited to connect with fellow innovators, explore cutting-edge projects, and push the boundaries of what's possible with technology. Let's build the future together.",
@@ -15,7 +15,7 @@
       "My journey has been defined by creating meaningful impact through technology. From research publications to innovation competitions, I've consistently focused on building solutions that genuinely improve people's lives. Whether working on accessibility, security, or wellness applications, I'm driven by the belief that technology should be both powerful and purposeful.",
       "When I'm not coding, you'll find me contributing to open-source projects, writing technical articles, or maybe gaming. I believe in continuous learning and sharing knowledge with the community."
     ],
-    "profileImage": "/avatar.png"
+    "profileImage": "/avatar2.png"
   },
   "stats": {
     "projects": "20+",
@@ -24,19 +24,19 @@
   },
   "social": {
     "linkedin": {
-      "url": "https://www.linkedin.com/in/andrea-ferruggia-0732b7380/",
-      "username": "andrea-ferruggia-0732b7380"
+      "url": "",
+      "username": ""
     },
     "github": {
       "url": "https://github.com/LegendaryCoder0205",
       "username": "Icarus"
     },
     "medium": {
-      "url": "https://medium.com/@andrea-ferruggia",
-      "username": "andrea-ferruggia"
+      "url": "",
+      "username": ""
     },
     "email": "mailto:davidjmj1997@gmail.com",
-    "phone": "tel:+65 9123 4567",
+    "phone": "",
     "resume": ""
   },
   "skills": {
@@ -703,10 +703,10 @@
     }
   ],
   "seo": {
-    "title": "David Beckham - AI Engineer & Full-Stack Developer",
+    "title": "David Johnson - AI Engineer & Full-Stack Developer",
     "description": "Associate Software Engineer at Lowe's specializing in AI-driven automation, Full-Stack development and accessibility technology. Expert in Python, React.js, and cloud technologies.",
     "keywords": [
-      "David Beckham",
+      "David Johnson",
       "AI Engineer",
       "Full Stack Developer",
       "Python",
